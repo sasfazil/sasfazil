@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fazil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaik-fazil-27657a249/)](https://www.linkedin.com/in/shaik-fazil-27657a249/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19808977/shaik-fazil)
+[![Website Badge](https://img.shields.io/badge/WebSite-Fazil-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Fazil-yellow)](https://stackoverflow.com/users/19808977/shaik-fazil)
 
 I'm
 Full Stack Learner at @edureka
